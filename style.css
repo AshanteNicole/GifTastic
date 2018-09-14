@@ -1,5 +1,13 @@
+body {
+    background-image: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3877031.jpg);   
+       height: 500%;
+       position: static;
+       /* Center and scale the image nicely */
+       background-repeat:repeat;
+}
+
 .card-body {
-    color: blue;
+    color: rgb(237, 237, 243);
     font-size: .5rem;
 }
 
